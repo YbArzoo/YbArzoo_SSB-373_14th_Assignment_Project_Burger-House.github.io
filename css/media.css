@@ -1,0 +1,123 @@
+@media(max-width:767px){
+    .express_part{
+        display: none;
+    }
+    .header_top{
+        display: none;
+        
+    }
+    
+    .navbar-brand{
+        display: inherit;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        text-align: right;
+    }
+    .burger_hero img{
+        display: none;
+    }
+    .seal{
+        display: none;
+    }
+    .burger h1{
+        font-size: 70px;
+        text-align: center;
+    }
+    .burger p{
+        text-align: center;
+        margin-left: 100px;
+        padding: 0px 1px;
+    }
+    .burger h4{
+        text-align: center;
+    }
+    header{
+        min-height: 60vh;
+    }
+    .most img{
+        padding-bottom: 30px;
+    }
+    .most h3 {
+       
+        left: 18%;
+        top: 105%;
+        font-size: 30px;
+       
+    }
+    .most h5 {
+        
+        top: 100%;
+        left: 18%;
+       
+        
+    }
+    .fun h5 {
+        
+        top: 165%;
+       
+        left: 18%;
+        
+    }
+    .fun h3 {
+        
+        top: 170%;
+        left: 18%;
+       
+        width: 27%;
+    }
+    .chili h5 {
+        
+        top: 200%;
+        
+        left: 18%;
+        
+    }
+    .chili h3 {
+        
+        top: 205%;
+        left: 18%;
+        width: 21%;
+    }
+    .tasty_text h5{
+        width: 40%;
+    }
+    .burger_menu_sec{
+        margin-bottom: 30px;
+    }
+    .left_part p{
+        width: 70%;
+    }
+    .right_part ul {
+     
+        margin-top: 20px;
+        margin-left: 50px;
+  
+    }
+    .ftr_end h2 {
+        
+        margin-left: 30px;
+        width: 55%;
+        
+    }
+    .social_media ul li a i{
+        margin-right: 30px;
+    }
+}
+
+@media(max-width:575px) {
+    .ftr_logo img{
+        width: 60%;
+    }
+    .left_part p{
+        font-size: 16px;
+    }
+    .social_media ul li a i{
+        margin-right: 8px;
+    }
+    .social_media{
+        padding-left: 50%;
+    }
+}
+@media(max-width:425px){
+    
+}
